@@ -216,3 +216,9 @@ git clone https://github.com/Guzcomtechnologies-ops/ntos-testbed
 cd ntos-testbed
 cargo test --all
 cargo bench 
+@misc{ntos2025,
+  title={NTOS: Behavioral Attestation and Field-Governed Computation},
+  author={Guzman, G.},
+  year={2025},
+  url={https://github.com/Guzcomtechnologies-ops/ntos-testbed}
+}
